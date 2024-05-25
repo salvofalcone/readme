@@ -4,8 +4,9 @@
 
 
 # 💫 About Me:
-Hello, I'm Salvo, a passionate front-end developer focused on design and UI. I'm currently working as fron-end developer @Digitiamo.ai.
- I'm thrilled to share my journey and projects. Let's connect and grow together!
+Hello, I'm Salvo, a passionate front-end developer focused on design and UI. I'm currently working as front-end developer @Digitiamo.ai
+
+I'm thrilled to share my journey and projects. Let's connect and grow together!
 
 
 # 🌐 Socials:
